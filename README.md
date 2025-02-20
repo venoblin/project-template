@@ -52,6 +52,7 @@ This project was built with the following technologies:
 - <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL" />
 - <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
 - <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine" />
+- <img src="https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white" alt="PowerShell" />
 
 ## Getting Started
 Instructions of setting up project on your local machine.
