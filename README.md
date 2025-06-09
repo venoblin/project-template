@@ -11,8 +11,8 @@ Short description of project!
 <a href="https://github.com/user/repo/wiki"><strong>Explore the docs »</strong></a>
 <br/>
 <br/>
-<a href="https://www.repo.com">View Demo .</a>  
-<a href="https://github.com/user/repo/issues/new?labels=bug&amp;template=bug_report.md">Report Bug .</a>
+<a href="https://www.repo.com">View Demo</a> . 
+<a href="https://github.com/user/repo/issues/new?labels=bug&amp;template=bug_report.md">Report Bug</a> . 
 <a href="https://github.com/user/repo/issues/new?labels=enhancement&amp;&template=feature_request.md">Request Feature</a>
 </p>
 </div>
@@ -53,6 +53,8 @@ This project was built with the following technologies:
 - <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB" />
 - <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine" />
 - <img src="https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white" alt="PowerShell" />
+- <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" />
+- <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 
 ## Getting Started
 Instructions of setting up project on your local machine.
